@@ -4621,9 +4621,13 @@ a.badge:focus {
 }
 .jumbotron {
   padding: 30px 15px;
+    margin-top:-20px;
   margin-bottom: 30px;
-  color: inherit;
+  color: white;
   background-color: #eee;
+  background-image: url("http://upload.wikimedia.org/wikipedia/commons/c/cd/Stanford_Oval_May_2011_panorama.jpg");
+  background-size: cover;
+    
 }
 .jumbotron h1,
 .jumbotron .h1 {
